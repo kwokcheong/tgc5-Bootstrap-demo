@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+}
+
+.container{
+    background-color:white;
+    border: 1px black solid;
+}
+
+.container-fluid{
+    background-color: yellow;
+}
+
+.row div {
+    border: 1px black solid;
+}
